@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://jasonangel09.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://jasonangel09.github.io/waterprojectmap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/11eTKhfwVX_ekbWfQz9O8pTcryAZVfGg95slpup0Z8vs/edit#gid=0
 
 ## Create your own
